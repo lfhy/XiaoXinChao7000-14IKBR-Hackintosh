@@ -29,7 +29,7 @@
 ### OpenCore
 - 参考了这个项目：[联想小新潮7000 14寸 efi](https://github.com/periky/lenovo-xiaoxinchao7000-14ikbr-efi.git)
 - 在macOS BigSur 11.7.1正常运行
-- OC版本0.6.9
+- OC版本:0.7.8
 
 
 ## 安装
